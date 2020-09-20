@@ -1,3 +1,5 @@
+# SistemasProgramables2020
+trabajos de SP
 ## :trophy: C0.2 Reto en clase
 
 **Conceptos de Industria 4.0 e IOT**
@@ -34,3 +36,13 @@
 | 1.7      | Que tecnologías observa en el video referentes al concepto Industria 4.0?         |            |
 | 1.8      | Basado en el video que ha ofrecido la robótica en la industria?        |            |
 
+2. Instale la extension [Draw.io integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) dentro de visual studio code y elabore el diagrama solicitado siguiendo las instrucciones para esta actividad.
+
+    :arrow_forward: [Extension de visual studio code - Draw.io integration](https://www.youtube.com/watch?v=Y47ZlxoDWNI)
+
+3. Coloque el diagrama que se solicita dentro del punto 1.5 en este apartado.
+   -Ejemplo de un diagrama de flujo utilizando draw.io
+
+![DiagramadeFlujo](../diagrams/Flujo.drawio.png)
+
+:house: [Ir a inicio](../docs/D0.1_FundamentosElectronicaBasica.md)
