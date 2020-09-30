@@ -1,6 +1,6 @@
 # SistemasProgramables2020
-![Tec](Pictures/tec.png)
-![Sistemas](Pictures/Sistemas.png)
+![Tec](img/tec.png)
+![Sistemas](img/Sistemas.png)
 
 ## Descripcion
 * Alejandro Diaz Navarro
