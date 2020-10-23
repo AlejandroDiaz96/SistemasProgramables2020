@@ -19,6 +19,7 @@
 **Unidad 2**
 * [C2.1](/Trabajos/C2.1_AlejandroDiazNavarro_Zerox.md)
 * [C2.2](/Trabajos/C2.2_AlejandroDiazNavarro_Zerox.md)
+* [C2.3](/Trabajos/C2.3_AlejandroDiazNavarro_Zerox.md)
 
 ### Docs
 * [A1.2](Trabajos/A1.2.AlejandroDiazNavarro_Zerox.md)
