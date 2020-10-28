@@ -30,3 +30,4 @@
   
  **Unidad 2**
   * [A2.1](/Trabajos/A2.1_AlejandroDiazNavarro_Zerox.md)
+  * [A2.2](Trabajos/A2.2_AlejandroDiazNavarro_Zerox.md)
