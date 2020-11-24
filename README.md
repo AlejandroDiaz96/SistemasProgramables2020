@@ -28,6 +28,7 @@
 * [C3.3](Trabajos/C3.3_AlejandroDiazNavarro_Zerox.md)
 * [C3.4](Trabajos/C3.4_AlejandroDiazNavarro_Zerox.md)
 * [C3.6](Trabajos/C3.6_AlejandroDiazNavarro_Zerox.md)
+* [C3.7](Trabajos/C3.7_AlejandroDiazNavarro_Zerox.md)
 
 ### Docs
 **Unidad 1**
