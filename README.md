@@ -23,12 +23,13 @@
 * [C2.3](/Trabajos/C2.3_AlejandroDiazNavarro_Zerox.md)
 
 **Unidad 3**
-* [C3.1](Trabajos/C3.1_AlejandroDiazNavarro_Zerox.md)
-* [C3.2](Trabajos/C3.2_AlejandroDiazNavarro_Zerox.md)
-* [C3.3](Trabajos/C3.3_AlejandroDiazNavarro_Zerox.md)
-* [C3.4](Trabajos/C3.4_AlejandroDiazNavarro_Zerox.md)
-* [C3.6](Trabajos/C3.6_AlejandroDiazNavarro_Zerox.md)
-* [C3.7](Trabajos/C3.7_AlejandroDiazNavarro_Zerox.md)
+* [C3.1 Arduino UNO salida digital](Trabajos/C3.1_AlejandroDiazNavarro_Zerox.md)
+* [C3.2 Entradas digital](Trabajos/C3.2_AlejandroDiazNavarro_Zerox.md)
+* [C3.3 Entradas Análoga](Trabajos/C3.3_AlejandroDiazNavarro_Zerox.md)
+* [C3.4 Entradas analógica y salida digital](Trabajos/C3.4_AlejandroDiazNavarro_Zerox.md)
+* [C3.6 Programación Microcontrolador NodeMCU ESP32](Trabajos/C3.6_AlejandroDiazNavarro_Zerox.md)
+* [C3.7 Programación Microcontrolador NodeMCU ESP32](Trabajos/C3.7_AlejandroDiazNavarro_Zerox.md)
+* [C3.8 Arduino IDE ESP32 y Sensor Touch](/Trabajos/C3.8_AlejandroDiazNavarro_Zerox.md)
 
 ### Docs
 **Unidad 1**
@@ -41,4 +42,4 @@
   * [A2.2](Trabajos/A2.2_AlejandroDiazNavarro_Zerox.md)
 
 **Unidad 3**
-* [A3.1](Trabajos/A3.1_AlejandroDiazNavarro_Zerox.md)
+* [A.3.1 Actividad de aprendizaje](Trabajos/A3.1_AlejandroDiazNavarro_Zerox.md)
