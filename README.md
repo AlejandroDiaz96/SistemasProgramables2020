@@ -30,8 +30,10 @@
 * [C3.6 Programación Microcontrolador NodeMCU ESP32](Trabajos/C3.6_AlejandroDiazNavarro_Zerox.md)
 * [C3.7 Programación Microcontrolador NodeMCU ESP32](Trabajos/C3.7_AlejandroDiazNavarro_Zerox.md)
 * [C3.8 Arduino IDE ESP32 y Sensor Touch](/Trabajos/C3.8_AlejandroDiazNavarro_Zerox.md)
+
 **Unidad 4**
-* * [C4.1 Programación Microcontrolador NodeMCU ESP32](Trabajos/C4.1_AlejandroDiazNavarro.md)
+* [C4.1 Programación Microcontrolador NodeMCU ESP32](Trabajos/C4.1_AlejandroDiazNavarro.md)
+* [C4.2 Comunicacion por medio del protocolo Wi-Fi](/Trabajos/C4.2_AlejandroDiazNavarro_Zerox.md)
 
 ### Docs
 **Unidad 1**
