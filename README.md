@@ -52,3 +52,4 @@
 
 **Unidad 4**
 * [A4.1 Actividad de aprendizaje](Trabajos/A4.1_AlejandroDiazNarro_Zerox.md)
+* [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](Trabajos/A4.2_AlejandroDiazNavarro_Zerox.md)
